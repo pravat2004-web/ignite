@@ -1,0 +1,2 @@
+# The project uses npm; this file documents that no pnpm lifecycle scripts are required.
+onlyBuiltDependencies: []

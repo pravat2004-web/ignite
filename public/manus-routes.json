@@ -1,0 +1,12 @@
+{
+  "routes": [
+    {
+      "path": "/",
+      "title": "IGNITE Freshers Event"
+    },
+    {
+      "path": "/staff-checkin",
+      "title": "IGNITE Staff Check-in"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">IGNITE mark</title>
+  <desc id="desc">A geometric cyan and violet orbit around a bold I on a navy background.</desc>
+  <rect width="256" height="256" fill="#07111f"/>
+  <path d="M70 64h116v32h-34v64h34v32H70v-32h34V96H70z" fill="#4de7ff"/>
+  <path d="M45 178c22 17 49 26 79 26 48 0 88-22 108-58-29 24-64 36-105 36-31 0-58-6-82-19z" fill="#8f6bff"/>
+</svg>
