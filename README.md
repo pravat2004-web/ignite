@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # IGNITE Freshers Event
 
 A responsive single-page React/Vite event site for the upcoming IGNITE freshers celebration hosted by the Master of Computer Applications Department at Centurion University of Technology and Management. The poster releases on 5 October 2026 and the main event is on 9 October 2026.
@@ -147,3 +148,6 @@ Event timing, venue, poster-release date, Formspree endpoints, source media path
 - three.js
 - CSS custom properties and inline style objects
 - Frontend and serverless browser-data flow
+=======
+# ignite
+>>>>>>> 3ef9895e5be8514a0ce812f9fae61c96c3098533
